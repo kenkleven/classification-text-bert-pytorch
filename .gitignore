@@ -1,0 +1,4 @@
+.env
+saved_model_bert/
+__pycache__/
+.Gradio
